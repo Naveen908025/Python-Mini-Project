@@ -45,14 +45,3 @@ This mini project was part of my **Python fundamentals practice** to:
 - Data visualization projects
 - SolidWorks/Python integrations
 
----
-
-## 🪄 What's Next
-I will now work on:
-- A **CSV Part List Reader** automation project for mechanical workflows.
-- Graph plotting for engineering data using `matplotlib`.
-- Automation scripts aligned with mechanical design needs.
-
----
-
-> **🌟 Feel free to clone this repo and practice your Python fundamentals with this project!**
