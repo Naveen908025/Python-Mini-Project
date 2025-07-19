@@ -32,8 +32,6 @@ This project strengthened my **logic building, function structuring, and CLI int
 
 ![Area and Volume Calculator](https://github.com/Naveen908025/Python-Mini-Project/blob/10b5a5b819b3874181ccae073754ac2e2fe504c4/Area_And_Volume_Calculator/Screenshot%202025-07-19%20134844.png)
 
-*(Replace with your actual raw GitHub URL once you upload your image)*
-
 ---
 
 ## 🚀 Why This Project?
